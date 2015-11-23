@@ -3,4 +3,4 @@ Minimum stake age: 2 hours and 30 confirmations RPC port: 20130
   P2P port: 20334
 
 
-Programmer (syntaks) states stake exploits and DEW exploits are prevented by code he added.
+Programmer (syntaks) states stake exploits and DER exploits are prevented by code he added.
