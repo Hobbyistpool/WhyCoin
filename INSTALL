@@ -1,0 +1,9 @@
+Building WhyCoin
+
+See doc/readme-qt.rst for instructions on building WhyCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of WhyCoin.
+
+See doc/build-*.txt for instructions on building whycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of WhyCoin.
